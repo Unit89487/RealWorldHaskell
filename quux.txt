@@ -1,0 +1,10 @@
+Blippidy bloppidy.
+The Real World Haskell book has some European cities listed. 
+I’ll add them here.
+Teignmouth, England
+Paris, France
+Ulm, Germany
+Auxerre, France
+Brunswick, Germany
+Beaumont-en-Auge, France
+Ryazan, Russia
