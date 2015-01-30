@@ -20,4 +20,4 @@ tim = ("Timbuck", 2)
 bill = ("Beau", 4)
 kim = ("ShuckAnd", 5)
 
-
+tuple = (head numbers, tail numbers)
