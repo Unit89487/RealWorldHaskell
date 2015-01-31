@@ -12,7 +12,9 @@
 --head [1, 2, 3, 4] has type Num a => a
 --head ["chimi, "changa", "Oka", "vanga"] has type [Char]
 --head ['a','b','c','d'] has type Char 
-
+--head [True, True, False] has type Bool
+--head [3.4, 3.0, 0.3] has type Fractional a => a
+--head [100, 300, 400] has type Num a => a
 
 numbers = [1, 2, 3, 4, 5]
 
@@ -21,3 +23,4 @@ bill = ("Beau", 4)
 kim = ("ShuckAnd", 5)
 
 tuple = (head numbers, tail numbers)
+a = fst tuple
